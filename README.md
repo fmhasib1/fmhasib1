@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fm Hasib</h1>
-<h3 align="center">I am passionate data analyst from New York</h3>
+<h3 align="center">I am passionate self taught data analyst from New York</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
